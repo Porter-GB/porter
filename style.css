@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color:yellow;
+}
+h2{
+    color:red;
+}
+p{
+    color: white;
+}
+img{
+    image-rendering: pixelated;
+}
